@@ -27,7 +27,7 @@ project: hours2
 
 ## Installation
 
-```go get -u github.com/snamber/standup-controlling```
+```go get -u github.com/snamber/standup-controller```
 
 ... or in case you're non-technical, just ask me for a binary.
 
