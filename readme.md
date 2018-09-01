@@ -29,6 +29,8 @@ project: hours2
 
 ```go get -u github.com/snamber/standup-controlling```
 
+... or in case you're non-technical, just ask me for a binary.
+
 ## Disclaimer
 
 Either you know why this tool exists, and it might make a lot of sense for you, or it doesn't make any sense for you. In that case, thanks for reading this far; like and subscribe.
